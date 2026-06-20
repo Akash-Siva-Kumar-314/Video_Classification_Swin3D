@@ -22,6 +22,22 @@ PyTorchVideo DataLoader + Slow-R50 , CONFIDENCE: 96.66% (100%native'PyTorchVideo
 
 PyTorchVideo DataLoader + Swin3D , CONFIDENCE: 100.00%
 
-.
+I decided to work more with the 'PyTorchVideo DataLoader + Swin3D' model.
 
+Study05.1.1_PyTorchVideoDataLoader_Swin3D_ToSaveTrainedModel.ipynb
+Saved the Trained Model.
+
+Study05.1.2_PyTorchVideoDataLoader_Swin3D_CallingAndUsingTrainedModel.ipynb
+Called the saved model, to do a single Inference.
+
+Study05.1.3_PyTorchVideoDataLoader_Swin3D_CallingAndUsingTrainedModel_SortingAllVideos_ipynb.ipynb
+This reads a bunch of videos and then sorts it according to predicted into respective folders.
+
+Now the problem was, it sorts any video into running or walking. What if the video is neither scenario?
+So created a miscellaneous class as well, that catches miscellaneous videos.
+All Study5.1 was modified to account for this, and named Study5.2.
+
+Study05.2.1_PyTorchVideoDataLoader_Swin3D_ToSaveTrainedModel_MiscIncluded
+Study05.2.2_PyTorchVideoDataLoader_Swin3D_CallingAndUsingTrainedModel_MiscIncluded
+Study05.2.3_PyTorchVideoDataLoader_Swin3D_CallingAndUsingTrainedModel_SortingAllVideos_MiscIncluded
 
