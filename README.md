@@ -25,7 +25,7 @@ PyTorchVideo DataLoader + Swin3D , CONFIDENCE: 100.00%
 I decided to work more with the 'PyTorchVideo DataLoader + Swin3D' model.
 
 Study05.1.1_PyTorchVideoDataLoader_Swin3D_ToSaveTrainedModel.ipynb
-Saved the Trained Model.
+/nSaved the Trained Model.
 
 Study05.1.2_PyTorchVideoDataLoader_Swin3D_CallingAndUsingTrainedModel.ipynb
 Called the saved model, to do a single Inference.
