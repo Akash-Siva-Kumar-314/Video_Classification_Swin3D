@@ -30,7 +30,7 @@ Saved the Trained Model.
 Study05.1.2_PyTorchVideoDataLoader_Swin3D_CallingAndUsingTrainedModel.ipynb  
 Called the saved model, to do a single Inference.
 
-Study05.1.3_PyTorchVideoDataLoader_Swin3D_CallingAndUsingTrainedModel_SortingAllVideos_ipynb.ipynb  
+Study05.1.3_PyTorchVideoDataLoader_Swin3D_CallingAndUsingTrainedModel_SortingAllVideos.ipynb  
 This reads a bunch of videos and then sorts it according to predicted into respective folders.
 
 Now the problem was, it sorts any video into running or walking. What if the video is neither scenario?  
