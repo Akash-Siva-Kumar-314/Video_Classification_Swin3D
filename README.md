@@ -41,7 +41,7 @@ Study05.2.1_PyTorchVideoDataLoader_Swin3D_ToSaveTrainedModel_MiscIncluded
 Study05.2.2_PyTorchVideoDataLoader_Swin3D_CallingAndUsingTrainedModel_MiscIncluded
 Study05.2.3_PyTorchVideoDataLoader_Swin3D_CallingAndUsingTrainedModel_SortingAllVideos_MiscIncluded
 
-I tried this Swin3D code to do actual work, but it is super slow.  
+I tried this Swin3D code to do actual work, but it is super slow to train.  
 Did some study,  
 Swin3D is a Video Transformer so it takes time to train while,  
 Slow-R50 and x3d are 3D CNN so more lightweight.  
