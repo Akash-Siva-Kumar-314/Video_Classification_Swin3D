@@ -51,7 +51,15 @@ In order of speed: x3d, Slow-R50, Swin3D.
 Modified Study05.2 to swap out swin3D with slowR50 to give Study06
 Study06.1_PyTorchVideoDataLoader_SlowR50_ToSaveTrainedModel_MiscIncluded  
 Study06.2_PyTorchVideoDataLoader_SlowR50_CallingAndUsingTrainedModel_MiscIncluded  
-Study06.3_PyTorchVideoDataLoader_SlowR50_CallingAndUsingTrainedModel_SortingAllVideos_MiscIncluded 
+Study06.3_PyTorchVideoDataLoader_SlowR50_CallingAndUsingTrainedModel_SortingAllVideos_MiscIncluded
+
+Modified Study05.2 to swap out swin3D with x3d to give Study07  
+Study07.1_PyTorchVideoDataLoader_x3d_ToSaveTrainedModel_MiscIncluded  
+Study07.2_PyTorchVideoDataLoader_x3d_CallingAndUsingTrainedModel_MiscIncluded  
+Study07.3_PyTorchVideoDataLoader_x3d_CallingAndUsingTrainedModel_SortingAllVideos_MiscIncluded  
+
+
+
 
 
 
