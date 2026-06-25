@@ -1,3 +1,5 @@
+<img width="3204" height="1494" alt="_- visual selection" src="https://github.com/user-attachments/assets/65a71375-cfd8-416f-a2cd-8747f43c2a9a" />
+
 Study 1: Skeleton code for video classification using Swin3D.
 
 Study 2: Studied the video manipulation function form Study 1, deconstructed it to legible blocks and tried on a single video.
